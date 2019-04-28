@@ -19,7 +19,7 @@ category: 求源计划
 |文字短视频APP🔥|王运辉、邬倩、闵锐、杨平、黄铁永、胡耀汉、胡永里、汤明恒、费庆毅|现在短视频的APP很火，大家有没有看到过那种文字生成的短视频呢，如果有兴趣的话可以联系我一起来做这样一个有意思的APP，我们可以用最新的架构，一定是一个非常有意思的经历。|
 |[Let's Encrypt WWW](https://github.com/sunwei/letsencrypt-www)|孙伟、李海峰|Probably the easiest way to create/ renew / deploy certificate, powered by TDD and Let's Encrypt.|
 |Android Http Proxy|黄铁永|开发过程中会用 Charles 去抓包，需要手动设置 http proxy，不是很方便，并且没有状态栏提示。Shadowsocks 开启了是有状态栏提示，但是不支持 Http proxy。|
-|Hello Kube|刘祥旭 |saltstack 运维管理生产环境 ready 的 Kubenetes 集群|
+|[Hello Kube](https://github.com/42devops/salt-kube)|刘祥旭 |saltstack 运维管理生产环境 ready 的 Kubenetes 集群|
 |[PhysicsEngine](https://github.com/physicsexplorer/esay.git)|顿梦军、李海峰|一个游戏物理引擎|
 |CircleCIConfigMerger|孙瑞|CircleCI一个仓库，一个分支只允许一个config.yml文件。如果步骤较多，则会行成一个巨长的config文件。这个项目的目的是创建一个工具，和文件格式。可以将circleci配置信息分布在各个独立的文件夹中，然后可以使用此项目创建的工具合并各个目录中的circleci配置文件，成为一个完整的标准的config.yml。|
 |TW谁是卧底🔥|黄铁永、杨珊、朱雪晴|小程序迷你游戏平台，从谁是卧底做起（因为市面上的谁是卧底太难用了）|
